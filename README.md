@@ -3,3 +3,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This example shows that Autocomplete component cannot be used on IE 11.
 
 Error looks like [ie-11-error.png](./docs/ie-11-error.png).
+
+How to run:
+
+```
+npm i
+```
+```
+npm run start
+```
+
+Open localhost:3000 in IE
